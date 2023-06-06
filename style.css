@@ -2,5 +2,5 @@
 #banner {
   color: navy;
   text-align: center;
-  border: 3px dotted red;
+  border-bottom: 3px solid red;
 }
